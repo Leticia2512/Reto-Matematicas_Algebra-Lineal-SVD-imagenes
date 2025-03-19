@@ -1,4 +1,4 @@
-# Reto-Modulo-Matematicas_Algebra-Lineal-Metodo-SVD-imagenes
+# Reto Módulo Matemáticas Álgebra Lineal_Método SVD imágenes
 ## Bootcamp Big Data, ML & IA_Keepcoding
 
 ### 📷 Compresión de Imágenes con SVD
