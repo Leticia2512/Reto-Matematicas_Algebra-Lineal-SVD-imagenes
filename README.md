@@ -9,7 +9,7 @@ Este repositorio contiene una implementación del algoritmo Singular Value Decom
 - Implementar la función para ejecutar SVD para obtener una matriz con los elementos principales y dos matrices con los vectores principales.
 - Reconstrucción de una imagen a partir de la función SVD.
 - Compresión de la imagen.
-- Representar graficamente diferentes imágenes comprimidas variando el número de elementos principales.
+- Representar graficamente diferentes imágenes comprimidas variando el número de componentes principales.
 
 
 🛠️ **Tecnologías y Librerías**
@@ -24,4 +24,4 @@ Este repositorio contiene una implementación del algoritmo Singular Value Decom
 
 🔗 **Acceso al Notebook**
 Puedes ver el desarrollo del ejercicio aquí:  
-[📓 Ver Notebook en GitHub](TU_URL_DEL_NOTEBOOK)  
+[📓 Ver Notebook en GitHub](https://github.com/Leticia2512/Reto-Modulo-Matematicas_Algebra-Lineal-Metodo-SVD-imagenes/blob/main/Reto_Metodo_SVD_Comprimir_imagen.ipynb)  
