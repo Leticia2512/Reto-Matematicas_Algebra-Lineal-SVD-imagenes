@@ -17,6 +17,12 @@ Este repositorio contiene la implementación del algoritmo **Singular Value Deco
 
 ---
 
+## 📈 Desarrollo de la práctica
+Puedes explorar el desarrollo completo de la práctica a través del notebook:  
+[Ver Notebook](https://github.com/Leticia2512/Reto-Modulo-Matematicas_Algebra-Lineal-Metodo-SVD-imagenes/blob/main/Reto_Metodo_SVD_Comprimir_imagen.ipynb)  
+
+___
+
 ## 🛠️ Lenguajes y Librerías Utilizadas
 - **Lenguaje:** Python  
 - **Librerías principales:**  
@@ -24,11 +30,7 @@ Este repositorio contiene la implementación del algoritmo **Singular Value Deco
   - `matplotlib`: Visualización de los resultados.  
   - `numpy`: Operaciones matemáticas y matriciales.  
 
----
 
-## 📓 Acceso al Notebook
-Puedes explorar el desarrollo completo de la práctica en el notebook disponible en el repositorio:  
-[📓 Ver Notebook](https://github.com/Leticia2512/Reto-Modulo-Matematicas_Algebra-Lineal-Metodo-SVD-imagenes/blob/main/Reto_Metodo_SVD_Comprimir_imagen.ipynb)  
 
 
 
