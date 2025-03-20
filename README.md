@@ -1,8 +1,6 @@
-# Reto Módulo Matemáticas Álgebra Lineal_Método SVD imágenes
+# Reto Módulo Matemáticas Álgebra Lineal_Método SVD (Singular Value Decomposition)
 ### Bootcamp Big Data, Machine Learning & IA_Keepcoding
 ___
-
-## 📷 Compresión de Imágenes con SVD (Singular Value Decomposition)
 
 Este repositorio contiene la implementación del algoritmo **Singular Value Decomposition (SVD)** para realizar compresión de imágenes, explorando conceptos de álgebra lineal y optimización.
 
