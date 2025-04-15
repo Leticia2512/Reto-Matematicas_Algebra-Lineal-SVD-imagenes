@@ -15,7 +15,7 @@ Este repositorio contiene la implementación del algoritmo **Singular Value Deco
 - **Compresión de imágenes:** Reducción del tamaño de las imágenes mediante el uso de componentes principales.
 - **Visualización gráfica:** Representación de imágenes comprimidas variando el número de componentes principales.
 
-Puedes explorar el desarrollo completo de la práctica en el notebook [Reto_Metodo_SVD_Comprimir_imagen.ipynb](https://github.com/Leticia2512/Reto-Modulo-Matematicas_Algebra-Lineal-Metodo-SVD-imagenes/blob/main/Reto_Metodo_SVD_Comprimir_imagen.ipynb).
+Puedes explorar el desarrollo completo de la práctica en el notebook: [Reto_Metodo_SVD_Comprimir_imagen.ipynb](https://github.com/Leticia2512/Reto-Modulo-Matematicas_Algebra-Lineal-Metodo-SVD-imagenes/blob/main/Reto_Metodo_SVD_Comprimir_imagen.ipynb).
 
 ___
 
